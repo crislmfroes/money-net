@@ -1,0 +1,13 @@
+background
+nota_100_reais_frente
+nota_100_reais_verso
+nota_10_reais_frente
+nota_10_reais_verso
+nota_20_reais_frente
+nota_20_reais_verso
+nota_2_reais_frente
+nota_2_reais_verso
+nota_50_reais_frente
+nota_50_reais_verso
+nota_5_reais_frente
+nota_5_reais_verso

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MoneyNet</string>
+    <string name="instructions">Coloque uma cedula na frente do celular para identifica-la</string>
+</resources>
